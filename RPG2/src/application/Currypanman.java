@@ -1,5 +1,4 @@
 package application;
-import Movable;
 
 public class Currypanman implements Movable{
 	public String introduce() {
